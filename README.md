@@ -14,17 +14,17 @@ pip install asyncio datetime multiprocessing os queue threading time json pandas
 
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/вашеимяпользователя/вашрепозиторий.git
+   git clone https://github.com/XxXmishkaXxX/dns-shop-scraper.git
    ```
 
 2. Перейти в каталог проекта:
    ```bash
-   cd вашрепозиторий
+   cd dns-shop-scraper
    ```
 
 3. Запустить скрипт:
    ```bash
-   python scraper.py
+   python new_scraper.py
    ```
 
 4. Следовать инструкциям на экране для выбора категорий для парсинга.
@@ -34,5 +34,3 @@ pip install asyncio datetime multiprocessing os queue threading time json pandas
 ## Вклад в разработку
 Pull-запросы приветствуются. Для существенных изменений предварительно создайте задачу, чтобы обсудить, что вы хотите изменить.
 
-## Лицензия
-[MIT](https://choosealicense.com/licenses/mit/)
